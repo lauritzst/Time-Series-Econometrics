@@ -7,3 +7,6 @@ This project was submitted as a personal assignment for the "Time Series Econome
 ### Assignment 1
 
 This assignment focused on the analytical derivations and concepts taught in the course. In the first task, the time series process was to be analyzed for stationarity and ergodicity. Task 2 focused on the causality and invertibility of ARMA processes and the mean, variance, and autocovariance calculation. In the third task, the log likelihood function of an AR process is derived. Finally, an empirical exercise using R studies time series data and model selection.
+
+### Assignment 2
+
