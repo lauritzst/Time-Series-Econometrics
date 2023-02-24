@@ -10,3 +10,4 @@ This assignment focused on the analytical derivations and concepts taught in the
 
 ### Assignment 2
 
+The second assignment deals with forecasting and estimation of time series data. In the first task, sales of chocolate are to be predicted with the help of an ARIMA model. The second task analyzes data on the Swiss census from 1885-2020. 
